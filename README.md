@@ -79,8 +79,6 @@ Nirmit Khurana
 
 📄 Citation
 
-If you use the original dataset, please cite:
-
 Armeni et al., “3D Semantic Parsing of Large-Scale Indoor Spaces”, CVPR 2016
 Dataset Website
 
