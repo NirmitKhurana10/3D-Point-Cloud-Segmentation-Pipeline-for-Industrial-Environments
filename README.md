@@ -26,15 +26,16 @@ To avoid pushing large `.npy` files to GitHub, the full preprocessed dataset is 
 ## 📂 Project Structure
 
 📁 processed_dataset/         ← Place your downloaded data here
-├── Area_1/
-│   ├── conferenceroom1
-│       ├── color.npy
-        ├── coord.npy
-        ├── instance.npy
-        ├── segment.npy
+
+
+        ├── Area_1/
+                ├── conferenceroom1
+                        ├── color.npy
+                        ├── coord.npy
+                        ├── instance.npy
+                        ├── segment.npy
+                ...
         ...
-    ...
-...
 
 📁 notebooks/                 ← Jupyter notebooks for preprocessing/modeling
 📁 models/                    ← Pretrained model wrappers or configs
