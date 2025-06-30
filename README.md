@@ -13,7 +13,7 @@ The project focuses on:
 
 To avoid pushing large `.npy` files to GitHub, the full preprocessed dataset is hosted externally.
 
-👉 **[Download Preprocessed S3DIS Data (Google Drive)](https://drive.google.com/drive/folders/1eq8l4h4T1EwOCzZ8ksmjck8V-vZI78pm?usp=share_link)**  
+👉 **[Download Preprocessed S3DIS Data (Google Drive)](https://drive.google.com/drive/folders/1VxGy2V-jhwcDfsBCOza0n9ijOpg8BryP?usp=share_link)**  
 
 ### After downloading:
 1. Unzip the folder.
